@@ -14,7 +14,7 @@
 
 **OWN Research** — Upload a research paper, get a structured PowerPoint: problem, methodology, key findings, implications. Includes executive summary, mind maps, and contextual Q&A. Export as PPTX or PDF.
 
-**Focus Guard** — Chrome extension blocking distracting sites during study sessions. Deployed on 42 school computers for two academic quarters.
+**Focus Guard** — Chrome extension blocking distracting sites during study sessions. Deployed on 42 school computers for a full academic year, active on exam days.
 
 ---
 
