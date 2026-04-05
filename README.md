@@ -8,16 +8,18 @@ My core stack is **React + TypeScript**, and I use **Framer** for fast web devel
 
 ## Focus
 - Frontend engineering (React / TypeScript)
-- AI apps engneering (TypeScript
+- AI apps engneering (TypeScript)
 - UI design & rapid prototyping (Figma / Framer)
 
 ---
 
 ## Tools & Tech
 - React, TypeScript 
-- Framer, Figma  
-- Notion (templates/systems)  
-- Google AI Studio, Google Antigravity  
+- Framer, Figma 
+- Cursor
+- Claude Code
+- Replit
+- Google AI Studio, Google Antigravity, Google NotebookLM
 - Procreate  
 
 ---
