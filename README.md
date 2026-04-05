@@ -1,29 +1,37 @@
-# Komron — AI-focused Developer
+# Komron Keldiyorov
 
-AI-focused developer based in Uzbekistan, building user-friendly web experiences and practical AI prototypes.
+**Co-founder & CTO at [Lerank](lerank.org) — building an escrow-backed EdTech marketplace that connects students with verified education consultants.**
 
-My core stack is **React + TypeScript**, and I use **Framer** for fast web development and polished prototypes. For UI and planning, I work in **Figma** and **Notion**. I also prototype with **Google AI Studio**, and use **Google Antigravity** as an assistant for research, brainstorming, and development workflows.
-
----
-
-## Focus
-- Frontend engineering (React / TypeScript)
-- AI apps engneering (TypeScript)
-- UI design & rapid prototyping (Figma / Framer)
+17, based in Tashkent, Uzbekistan. I build AI-powered products that solve real problems — from computer vision systems processing 300+ daily users to platforms that protect students from consultant fraud.
 
 ---
 
-## Tools & Tech
-- React, TypeScript 
-- Framer, Figma 
-- Cursor
-- Claude Code
-- Replit
-- Google AI Studio, Google Antigravity, Google NotebookLM
-- Procreate  
+## What I've Built
+
+**Lerank** — EdTech marketplace with escrow-backed payments, milestone tracking, and consultant verification. Built with Next.js, Supabase, and Cloudflare.
+
+**Face Recognition Attendance System** — Computer vision pipeline scanning 300 students daily at my school. Python, FastAPI, DeepFace, OpenCV, Supabase, React.
+
+**OWN Audio** — Converts educational PDFs into structured audio using AI. Built for students who study on the go.
+
+**OWN Research** — RAG-powered tool for navigating academic papers.
+
+**Focus Guard** — Chrome extension blocking distracting sites during study sessions. Deployed on 42 school computers for two academic quarters.
+
+---
+
+## Stack
+
+**Frontend:** React, TypeScript, Next.js, Tailwind  
+**Backend:** Supabase, FastAPI, Python  
+**AI/ML:** DeepFace, OpenCV, PyTorch, Google AI Studio  
+**Design:** Figma, Framer  
+**Dev Tools:** Cursor, Claude Code, Replit
 
 ---
 
 ## Currently
-- Building and shipping small experiments from scratch
-- Exploring AI product UX and reliable workflows
+
+- Scaling Lerank for launch across Central Asia
+- Applying to MBZUAI (B.Sc. in AI)
+- Designed and taught a 16-session AI/prompt engineering course at my school
