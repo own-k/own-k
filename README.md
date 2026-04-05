@@ -10,11 +10,9 @@
 
 **Lerank** — EdTech marketplace with escrow-backed payments, milestone tracking, and consultant verification. Built with Next.js, Supabase, and Cloudflare.
 
-**Face Recognition Attendance System** — Computer vision pipeline scanning 300 students daily at my school. Python, FastAPI, DeepFace, OpenCV, Supabase, React.
+**OWN Audio** — Record or import audio, get structured summaries, mind maps, and AI-powered Q&A. Gemini API. All recordings stored on-device.
 
-**OWN Audio** — Converts educational PDFs into structured audio using AI. Built for students who study on the go.
-
-**OWN Research** — RAG-powered tool for navigating academic papers.
+**OWN Research** — Upload a research paper, get a structured PowerPoint: problem, methodology, key findings, implications. Includes executive summary, mind maps, and contextual Q&A. Export as PPTX or PDF.
 
 **Focus Guard** — Chrome extension blocking distracting sites during study sessions. Deployed on 42 school computers for two academic quarters.
 
