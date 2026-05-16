@@ -1,6 +1,6 @@
 # Komron Keldiyorov
 
-**Founder of [Lerank](https://lerank.org/) — building an escrow-backed EdTech marketplace that connects students with verified education consultants.**
+**Founder of [Lerank] — building an escrow-backed EdTech marketplace that connects students with verified education consultants.**
 
 17, based in Tashkent, Uzbekistan. I build AI-powered products that solve real problems — from computer vision systems processing 300+ daily users to platforms that protect students from consultant fraud.
 
